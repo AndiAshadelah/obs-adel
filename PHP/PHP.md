@@ -229,6 +229,7 @@ Berikut ini beberapa jenis operator yang tersedia dalam PHP:
      $g = $a >= $b; // Lebih besar dari atau sama dengan
      $h = $a <= $b; // Lebih kecil dari atau sama dengan    
 ```
+
 4. Operator Logika:
    - Operator logika digunakan untuk menggabungkan atau memanipulasi nilai kebenaran (true atau false).
    - Contoh:
@@ -239,6 +240,7 @@ Berikut ini beberapa jenis operator yang tersedia dalam PHP:
      $d = $a || $b; // Logika OR
      $e = !$a; // Logika NOT
 ```
+
 5. Operator String:
    - Operator string digunakan untuk menggabungkan atau memanipulasi teks.
    - Contoh:
@@ -252,9 +254,6 @@ Berikut ini beberapa jenis operator yang tersedia dalam PHP:
    - Selain operator-operator di atas, PHP juga memiliki operator lain seperti operator increment (++) dan decrement (--), operator ternary (?:), operator array, dan lain-lain.
 
 Operator dalam PHP memungkinkan Anda untuk melakukan berbagai operasi dan manipulasi pada data, dan memungkinkan logika dan fungsionalitas yang lebih kompleks dalam program Anda. Dalam pengembangan PHP, pemahaman tentang operator sangat penting untuk membuat kode yang efisien dan efektif.
-
-
-
 
 # Conditional Statement
 ## IF
