@@ -71,7 +71,7 @@ button {
 ![image](ASSET/color2.png)
 
 >[! penjelasan]-
->> color adalah
+>> color adalah code untuk memberikan warna pada teks
 # Cara pemanggilan CSS
 1. **External Metode:** Ini merupakan cara paling umum untuk menggunakan CSS. Dalam external metode, Anda menuliskan seluruh kode CSS dalam file CSS terpisah, dan memanggilnya di dalam file HTML menggunakan tag `<link>` di dalam tag `<head>` HTML.
 Contoh :
