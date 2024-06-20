@@ -896,30 +896,27 @@ Perintah SQL ini akan menghasilkan daftar pemilik mobil beserta nilai pemasukan 
 
 # RELASI
 ## DATA TABEL PEGAWAI
-![[r1.png]]
+![image](ASET/R1.png)
 
 ## PERUBAHAN STRUKTUR TABEL PEGAWAI
 ### BEFORE
-![[r10.png]]
+![image](ASET/r10.png)
 ### AFTER
-![[r20.png]]
+![image](ASET/r20.png)
 ## PERUBAHAN DATA PEGAWAI DAN CABANG
 ### BEFORE
-![[r1.png]]
+![image](ASET/r1.png)
 
 ### AFTER
-![[r2.png]]
+![image](ASET/r2.png)
 
 ## CABANG
 ### BEFORE
-![[r3.png]]
+![image](ASET/r3.png)
 ### AFTER
-![[r4.png]]
+![image](ASET/r4.png)
 ## Hasil Relasi
-![[r8.png]]
-
-
-
+![image](ASET/r8.png)
 
 ## Query
-![[r6.png]]
+![image](ASET/r6.png)
