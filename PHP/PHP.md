@@ -253,6 +253,9 @@ Berikut ini beberapa jenis operator yang tersedia dalam PHP:
 
 Operator dalam PHP memungkinkan Anda untuk melakukan berbagai operasi dan manipulasi pada data, dan memungkinkan logika dan fungsionalitas yang lebih kompleks dalam program Anda. Dalam pengembangan PHP, pemahaman tentang operator sangat penting untuk membuat kode yang efisien dan efektif.
 
+
+
+
 # Conditional Statement
 ## IF
 ### Penjelasan
