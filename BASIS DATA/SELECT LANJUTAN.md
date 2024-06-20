@@ -896,7 +896,7 @@ Perintah SQL ini akan menghasilkan daftar pemilik mobil beserta nilai pemasukan 
 
 # RELASI
 ## DATA TABEL PEGAWAI
-![image](ASET/R1.png)
+![image](ASET/r1.png)
 
 ## PERUBAHAN STRUKTUR TABEL PEGAWAI
 ### BEFORE
