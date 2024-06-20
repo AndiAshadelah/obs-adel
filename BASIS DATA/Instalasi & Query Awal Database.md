@@ -22,7 +22,7 @@ Buat folder baru jika tidak ada folder kosong
 ![STEP 5](ASET/STEP5.png)
 
 13. Selesai : Biarkan centangnya agar Control Panel Xampp langsung terbuka setelah anda mengklik “Finish”
-![STEP 6](STEP6.png)
+![STEP 6](ASET/STEP6.png)
 
 # Menggunakan XAMPP
 1. Buka aplikasi XAMPP 
