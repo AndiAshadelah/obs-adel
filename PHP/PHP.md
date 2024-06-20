@@ -270,7 +270,10 @@ $nilai = 75; // Contoh nilai input
 if ($nilai >= 80) {
     echo "Selamat! Anda lulus dengan nilai yang baik.";
 ```
+
 ### Hasil
+[image](ASET/p2.png)
+
 ### Analisis
 program akan mengevaluasi kondisi secara berurutan. Jika `$nilai` lebih besar atau sama dengan 80, program akan menampilkan pesan "Selamat! Anda lulus dengan nilai yang baik.". Jika `$nilai` lebih besar atau sama dengan 80, program akan menampilkan pesan "Selamat! Anda lulus dengan nilai yang baik.".
 ### Kesimpulan
