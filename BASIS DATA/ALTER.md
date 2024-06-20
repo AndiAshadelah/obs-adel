@@ -89,7 +89,7 @@ Namun, perlu diingat bahwa perubahan struktur tabel dapat mempengaruhi data yang
 ```sql
 INSERT INTO mobil
     -> (id_pelanggan,no_plat,no_mesin,warna,pemilik,peminjam,harga_rental)
-    -> values (7,"B 4532 H","RPL2122","Hitam","Valen",NULL,100000);
+    -> values (2,"B 4532 H","RPL2122","Hitam","Valen",satya,100000);
 ```
 Hasil
 ![imgae](ASET/a7.png)
