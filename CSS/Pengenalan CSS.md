@@ -196,7 +196,7 @@ text-indent: 100px
 
 ### HASIL
 #### BEFORE
-![[CSS/ASSET/s4.png]]
+![CSS](ASSET/s4.png)
 #### AFTER
 ![[Pasted image 20240615113957.png]]
 ### KESIMPULAN
