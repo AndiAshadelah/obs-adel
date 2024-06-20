@@ -33,7 +33,9 @@ Buat folder baru jika tidak ada folder kosong
 
 3. Klik `Shell`
 ![DATA 3](ASET/DATA3.png)
+
 ## Referensi Video Youtube
+https://youtu.be/J6tOC6Z7Vm4?si=KzIgieakd1qikRhB
 
 # Penggunaan Awal MySQL
 
