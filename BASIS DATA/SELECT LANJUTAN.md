@@ -915,3 +915,9 @@ Perintah SQL ini akan menghasilkan daftar pemilik mobil beserta nilai pemasukan 
 ![image](ASET/r3.png)
 ### AFTER
 ![image](ASET/r4.png)
+
+## Hasil Relasi
+![image](ASET/r8.png)
+
+## Query
+![imnage](ASET/r6.png)
